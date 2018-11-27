@@ -1,0 +1,12 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = http://LYliy@jwgit.jcinfo.com:7990/scm/intear/photomodule.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = http://LYliy@jwgit.jcinfo.com:7990/scm/intear/photomodule.git
+[remote]
+	pushdefault = origin
